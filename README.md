@@ -20,8 +20,8 @@ description: A short description
 ```
 
 2️⃣ ExpenseTracker.java
-```yaml
 - Manages a list of expenses with functions:
+```yaml
 - addExpense(Expense expense): Adds an expense
 - getExpenses(): Returns the list of all expenses
 - removeExpense(int index): Removes an expense by index
@@ -29,8 +29,8 @@ description: A short description
 ```
 
 3️⃣ ExpenseApp.java
-```yaml
 - Provides a console-based menu for users to:
+```yaml
 - Add an expense
 - View all expenses
 - Remove an expense
