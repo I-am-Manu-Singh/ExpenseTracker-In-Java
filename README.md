@@ -1,4 +1,5 @@
 # 💰 Expense Tracker App in Java
+## 🌐Overview
 - A simple console-based Expense Tracker that allows users to add, view, remove, and calculate total expenses.
 ---
 ## 🏗 Project Structure
